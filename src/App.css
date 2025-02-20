@@ -1,0 +1,11 @@
+.app__background{
+    background-image: url("./assets/background-image.jpg");
+    background-position: center;
+    background-size: cover;
+    filter: drop-shadow(2px 4px 6px #000);
+    border: 1px solid #fff;
+}
+
+.font-roboto{
+    font-family: Roboto;
+}
